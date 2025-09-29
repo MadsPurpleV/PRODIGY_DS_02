@@ -53,11 +53,9 @@ Jupyter Notebook
 [Passenger Count](https://1drv.ms/i/c/3caa0aa167fc94a7/ERbYsLJrJo5EolqCRLq93ygBHHXmK40p7IY2-CdlwNnInw?e=IGI9ja)
 
 ### 🔹 Survival Rate
-[Gender](https://1drv.ms/i/c/3caa0aa167fc94a7/EZ-gXFnSB2JPvhEWZ3_wdAEBKJ3xlAWV99RjlY_vX9GY9g?e=MdAmKM)
-
-[Passenger Class](https://1drv.ms/i/c/3caa0aa167fc94a7/EWTndUrnKjdOtCWQECmVhBUBliOlUD9Zbnx37-D3bh9CVQ?e=ecfa0k)
-
-[Class and Gender](https://1drv.ms/i/c/3caa0aa167fc94a7/Ealo8r70bwtBlqd3HyGRjBIBiY85cT4z5MpUUTIALeHitw?e=YVjwUv)
+1. [Gender](https://1drv.ms/i/c/3caa0aa167fc94a7/EZ-gXFnSB2JPvhEWZ3_wdAEBKJ3xlAWV99RjlY_vX9GY9g?e=MdAmKM)
+2. [Passenger Class](https://1drv.ms/i/c/3caa0aa167fc94a7/EWTndUrnKjdOtCWQECmVhBUBliOlUD9Zbnx37-D3bh9CVQ?e=ecfa0k)
+3. [Class and Gender](https://1drv.ms/i/c/3caa0aa167fc94a7/Ealo8r70bwtBlqd3HyGRjBIBiY85cT4z5MpUUTIALeHitw?e=YVjwUv)
 
 ### 🔹 Correlation Heatmap
 [Correlation Heatmap](https://1drv.ms/i/c/3caa0aa167fc94a7/EZwEzQpO7-lLtYicqDsjpvABOnLJUMZb1dhCrRvShZBWpA?e=bAAGzK)
