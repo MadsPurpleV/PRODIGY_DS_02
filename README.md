@@ -63,9 +63,9 @@ Jupyter Notebook
 ---
 
 ## Insights
-- Females had a much higher survival rate compared to males.  
-- Passengers in **1st class** survived more than those in 2nd or 3rd class.  
-- Younger passengers had slightly better survival chances.  
-- `Sex` and `Pclass` were the strongest predictors of survival.
+- Most passengers were in 3rd class.
+- Survival rate was higher for females than males.
+- Younger passengers had slightly higher survival rate.
+- Fare and class are positively correlated (higher class, higher fare).
 
 ---
