@@ -7,7 +7,7 @@ Analyzed the Titanic dataset by cleaning missing values and exploring key featur
 
 This project performs **data cleaning and exploratory data analysis (EDA)** on the famous Titanic dataset.
 
-It is part of my **Prodigy Internship Data Science Task-1**.
+It is part of my **Prodigy Internship Data Science Task-2**.
 
 ---
 
@@ -33,7 +33,7 @@ Dataset in Tabular form
 2. Perform data cleaning (missing values, duplicates, info check)
 3. Generate descriptive statistics
 4. Visualize distributions, correlations, and pairplots
-5. Draw insights
+5. Insights
 
 ---
 
